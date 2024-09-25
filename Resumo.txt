@@ -1,0 +1,28 @@
+1) Resumo da linguagem
+Origens:
+Quem: Desenvolvida por Ken Thompson e Dennis Ritchie no início da década de 1970.
+Onde: No Bell Labs, enquanto trabalhavam no sistema operacional Unix.
+Quando: O Bourne Shell (sh), uma das primeiras versões populares, foi criado por Stephen Bourne em 1977.
+Influências:
+
+O Shell script foi influenciado por várias linguagens:
+C: Por compartilhar muitos conceitos, já que o Unix foi escrito em C.
+ALGOL: Inspirou a estrutura de controle de fluxo no shell.
+Multics Shell: Sistema operacional pré-Unix que influenciou fortemente o design.
+
+Influenciou:
+Unix Shell scripts influenciaram várias linguagens de script e automação:
+Bash (Bourne Again Shell), amplamente usada hoje em dia, é uma extensão do Bourne Shell.
+Perl: Linguagem de script criada para processamento de texto e automação de sistemas Unix.
+Python: Influenciado pelo shell na forma como interage com o sistema operacional.
+
+Adoção:
+Unix Shell Script se tornou uma linguagem amplamente adotada pela sua simplicidade e forte integração com o sistema operacional Unix. Foi popular entre administradores de sistemas para automação de tarefas e gerenciamento de servidores.
+A maioria dos sistemas Unix e Linux usa o Shell como interface padrão para scripts e comandos.
+
+2) Suporte ao paradigma imperativo
+Shell Script é uma linguagem fortemente imperativa, o que significa que o código descreve uma sequência de comandos que devem ser executados em ordem.
+O suporte ao paradigma imperativo é claramente visível em como o script:
+Executa instruções sequencialmente, como abrir arquivos, ler entradas do usuário e manipular dados diretamente.
+Utiliza comandos que modificam o estado do sistema, como cat (ler arquivos), echo (imprimir), rm (remover arquivos).
+A linguagem também inclui estruturas de controle de fluxo comuns no paradigma imperativo, como if, for, while, etc.
